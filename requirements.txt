@@ -23,7 +23,6 @@ markdown-it-py==3.0.0
 MarkupSafe==2.1.4
 mdurl==0.1.2
 numpy==1.26.3
-opencv-python==4.9.0.80
 opencv-python-headless==4.9.0.80
 openpyxl==3.1.2
 packaging==23.2
@@ -57,3 +56,4 @@ validators==0.22.0
 watchdog==3.0.0
 XlsxWriter==3.1.9
 zipp==3.17.0
+
