@@ -1,4 +1,4 @@
-libgl1-mesa-glx
+libgl1
 ghostscript
 libglib2.0-0
 
